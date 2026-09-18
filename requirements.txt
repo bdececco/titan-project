@@ -1,0 +1,16 @@
+numpy
+pandas
+scipy
+xarray
+statsmodels
+pymc
+arviz
+pytensor
+matplotlib
+seaborn
+plotly
+optuna
+openpyxl
+ipykernel
+streamlit
+
